@@ -36,7 +36,7 @@ public class CashbackHackService {
 
 Вам нужно создать проект на базе Gradle, как на лекции, не добавляя в него внешних зависимостей.
 
-Выложите полученный проект на GitHub. Не забудьте о файле .gitignore. Подключите GitHub Actions. Можете воспользоваться [примером файла](./gradle.yml) для конфигурации gradle-сборки в Github Actions.
+Выложите полученный проект на GitHub. Не забудьте о файле .gitignore. Подключите GitHub Actions. Можете воспользоваться примером файла (./gradle.yml) для конфигурации gradle-сборки в Github Actions.
 
 ### Легенда
 
